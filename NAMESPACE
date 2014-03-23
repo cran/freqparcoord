@@ -1,0 +1,7 @@
+
+import(ggplot2, GGally, FNN, mvtnorm)
+
+# exportPattern(".")
+export(freqparcoord,regdiag,regdiagbas,smoothz,knnreg,knndens,
+   smoothzpred,posjitter,rmixmvnorm)
+

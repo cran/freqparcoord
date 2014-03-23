@@ -1,0 +1,9 @@
+
+To get a quick introduction to this package, do
+
+> library(parcoordf)
+> ?parcoordf
+
+There are a number of examples.  Read the comment lines in the example
+code, and then run the code.
+
