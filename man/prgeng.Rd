@@ -29,6 +29,8 @@ The variables are:
    13 is a bachelor's degree, 14 a master's, 15 a professiona deal and
    16 is a doctorate}
 
+   \item{\code{engl}, English proficiency}
+
    \item{\code{occ}, occupation}
 
    \item{\code{birth}, place of birth}

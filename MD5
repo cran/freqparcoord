@@ -1,5 +1,5 @@
-972607da66ada09f1342dac51ccf311d *DESCRIPTION
-742809fa4387359f7462e857ef98584f *NAMESPACE
+69e6a0ac84d19559af966055b800ddd7 *DESCRIPTION
+374191b35b52ae9093a4521693798abb *NAMESPACE
 d9dd888dc87a71ffdaf941d2f99a8ab1 *R/ParCoord.R
 03bae4936b03c2abbe373ab247bdfec4 *R/RegDiag.R
 f735cc0f9981fa6c0cb9b07ef5a842a7 *R/Smoother.R
@@ -17,7 +17,7 @@ d7b20d8a4ab739256dae95ccb4d2ed11 *man/freqparcoord.Rd
 cdc988f4c5d67ad592c75f1f7d25254e *man/newadult.Rd
 51ad3899f2d4c7e39eca01f9d3b1bc67 *man/oliveoils.Rd
 9392354295ce526bd6c6c5ceedfd1955 *man/posjitter.Rd
-688e8cd3e283ac1da3bd6cd0d09914a7 *man/prgeng.Rd
+9ad0c24f376276da4f7f8b64885647b8 *man/prgeng.Rd
 908adb545f8cd992d29dc9450767ba15 *man/regdiag.Rd
 e20f398377cda4629056bcb795b567f7 *man/rmixmvnorm.Rd
 6a8153a0af71325dcb4cf7a4c79915c7 *man/smoothz.Rd

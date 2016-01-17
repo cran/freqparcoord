@@ -1,5 +1,7 @@
 
-import(ggplot2, GGally, FNN, mvtnorm)
+import(parallel,ggplot2, GGally, FNN, mvtnorm)
+
+importFrom("stats", "complete.cases", "cor", "quantile", "runif") 
 
 # exportPattern(".")
 export(freqparcoord,regdiag,regdiagbas,smoothz,knnreg,knndens,
